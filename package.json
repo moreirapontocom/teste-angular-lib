@@ -1,0 +1,19 @@
+{
+  "name": "autenticacao",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^11.0.9",
+    "@angular/core": "^11.0.9"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/autenticacao.umd.js",
+  "module": "fesm2015/autenticacao.js",
+  "es2015": "fesm2015/autenticacao.js",
+  "esm2015": "esm2015/autenticacao.js",
+  "fesm2015": "fesm2015/autenticacao.js",
+  "typings": "autenticacao.d.ts",
+  "metadata": "autenticacao.metadata.json",
+  "sideEffects": false
+}
